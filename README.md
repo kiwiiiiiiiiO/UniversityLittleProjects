@@ -1,5 +1,8 @@
 # MyLittleProject
 
+### About This Project
+存放一些課堂上的練習。
+
 ### CONTENTS
 | Project | Description  |
 |  ----  | ----  |
